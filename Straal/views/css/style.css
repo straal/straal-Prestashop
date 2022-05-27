@@ -1,0 +1,24 @@
+.ep-d-none{
+	display:none;
+}
+.mbotom{
+	margin-bottom: 20px;
+}
+
+.dnonee{
+	display: none;
+}
+
+.rensr-btn{
+	background-color: rgba(200,200,200,.8);
+	margin-bottom: 30px;
+	cursor: pointer;
+}
+
+.rensr-btn:hover{
+	background-color: rgba(220,220,220,.8);
+}
+
+.mbway-mpagamento{
+	margin-top: 20px;
+}
