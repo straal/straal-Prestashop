@@ -10,7 +10,7 @@ Payment plugin for Prestashop
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat)](LICENSE)
 [![Twitter](https://img.shields.io/badge/twitter-@straal-blue.svg?style=flat)](http://twitter.com/straal_)
 
-# Straal Prestashop payment plugiin
+# Straal Prestashop payment plugin
 
 > A Prestashop plugin for integrating your store with Straal payment gateway.
 
