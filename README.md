@@ -1,9 +1,6 @@
 # straal-Prestashop
 Payment plugin for Prestashop
 
-<p align="left">
-    <img height=80 src="web/logo_github.png"/>
-</p>
 
 ---
 
